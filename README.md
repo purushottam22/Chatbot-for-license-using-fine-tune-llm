@@ -44,8 +44,8 @@ To set up the chatbot, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone <repository_link>
-   cd <repository_name>
+   git clone <[repository_link](https://github.com/purushottam22/Chatbot-for-license-using-fine-tune-llm/tree/main)>
+   cd <Chatbot-for-license-using-fine-tune-llm>
    ```
 
 2. Install the required Python modules:  
