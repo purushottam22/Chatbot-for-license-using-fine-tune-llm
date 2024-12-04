@@ -1,4 +1,4 @@
-![Chatbot UI](https://raw.githubusercontent.com/<username>/<repository>/main/<image_name>)
+![Chatbot UI](https://github.com/purushottam22/Chatbot-for-license-using-fine-tune-llm/blob/dev/UI.png)
 
 # License Chatbot  
 
